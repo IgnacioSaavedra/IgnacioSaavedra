@@ -1,5 +1,4 @@
-Hi, I'm Ignacio, a recently graduated Computer Science Engineer. 
-I have some experience programming and working with data and I look forward to get more.
-Always learning something new.
+Hi, I'm Ignacio, a Computer Science Engineer. 
+I have experience programming in different languages and working with data.
 
-(Currently working in a portfolio, a bit of a slow process so far, but 2 of my projects are ready)
+Here is a little sample of code I made, I hope you like it.
